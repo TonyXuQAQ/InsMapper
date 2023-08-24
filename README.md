@@ -36,6 +36,15 @@ For more demos, please visit our new [project page](https://tonyxuqaq.github.io/
 ## Contact
 For any questions, please send email to zhxuv at hku dot hk or open an issue.
 
+## Acknowledgement
+We thank these high-quality open-sourced projects 
+[MapTR](https://github.com/hustvl/MapTR),
+[VectorMapNet](https://tsinghua-mars-lab.github.io/vectormapnet/),
+[HDMapNet](https://tsinghua-mars-lab.github.io/HDMapNet/),
+[STSU](https://github.com/ybarancan/STSU),
+[Sat2Graph](https://github.com/songtaohe/Sat2Graph),
+[Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
+
 ## Citation
 ```
 @article{xu2023insightmapper,
