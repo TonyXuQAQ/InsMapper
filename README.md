@@ -7,9 +7,11 @@ This is the official implementation of paper **InsightMapper: A closer look at i
 The code will be released in a later stage. Please first check our paper and demos!
 
 ## Update
-Aug/24/2023: Release more demos and the supplementary document at our [new project page](https://tonyxuqaq.github.io/InsightMapper/). Code will be released in a later stage. 
+- Sep/28/2023: Update the manuscript. More experiments are added, including the comparison between [MapTR-V2](https://github.com/hustvl/MapTR/tree/maptrv2).
 
-Aug/17/2023: Release paper on arxiv at [paper](https://arxiv.org/abs/2308.08543).
+- Aug/24/2023: Release more demos and the supplementary document at our [new project page](https://tonyxuqaq.github.io/InsightMapper/). Code will be released in a later stage. 
+
+- Aug/17/2023: Release paper on arxiv at [paper](https://arxiv.org/abs/2308.08543).
 
 ## Demo
 We visualize live demos of InsightMapper under various scenarios, with different whether and time. Some scenes may have complicated road intersection areas. Short demos are visualized with 2Hz, while long demos have 4Hz FPS. 
