@@ -7,7 +7,7 @@ This is the official implementation of paper **InsightMapper: A closer look at i
 The code will be released in a later stage. Please first check our paper and demos!
 
 ## Update
-- Sep/28/2023: Update the manuscript. More experiments are added, including the comparison between [MapTR-V2](https://github.com/hustvl/MapTR/tree/maptrv2).
+- Sep/28/2023: Update the manuscript. More experiments are added, including the comparison with [MapTR-V2](https://github.com/hustvl/MapTR/tree/maptrv2).
 
 - Aug/24/2023: Release more demos and the supplementary document at our [new project page](https://tonyxuqaq.github.io/InsightMapper/). Code will be released in a later stage. 
 
