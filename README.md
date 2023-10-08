@@ -1,5 +1,5 @@
 # InsightMapper
-This is the official implementation of paper **InsightMapper: A closer look at inner-instance information for vectorized High-Definition Mapping** by [Zhenhua Xu](https://tonyxuqaq.github.io/), [Kenneth K.Y. Wong](https://i.cs.hku.hk/~kykwong/), [Hengshuang Zhao](https://hszhao.github.io/) from the Univerisity of Hong Kong.
+This is the official implementation of paper **InsightMapper: A closer look at inner-instance information for vectorized High-Definition Mapping** by [Zhenhua Xu](https://tonyxuqaq.github.io/), [Kwan-Yee. K. Wong](https://i.cs.hku.hk/~kykwong/), [Hengshuang Zhao](https://hszhao.github.io/) from the Univerisity of Hong Kong.
 
 [Project page](https://tonyxuqaq.github.io/InsightMapper/)
 
