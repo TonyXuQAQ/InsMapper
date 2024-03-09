@@ -60,6 +60,30 @@
                 </a>
               </span>
               {% endif %}
+              <!-- Arxiv Link. -->
+              {% if page.arxiv %}
+              <span class="link-block">
+                <a href="{{ page.arxiv }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                   <span class="icon">
+                    <i class="fas fa-file"></i>
+                </span>
+                  <span>Arxiv</span>
+                </a>
+              </span>
+              {% endif %}
+              <!-- Supp Link. -->
+              {% if page.supp %}
+              <span class="link-block">
+                <a href="{{ page.supp }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                   <span class="icon">
+                    <i class="fas fa-file"></i>
+                </span>
+                  <span>Supplementary</span>
+                </a>
+              </span>
+              {% endif %}
               <!-- Video Link. -->
               {% if page.video %}
               <span class="link-block">

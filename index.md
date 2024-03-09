@@ -12,7 +12,11 @@ author3: Hengshuang Zhao
 author3link: https://hszhao.github.io/
 affiliations:
     the University of Hong Kong
-paper: https://arxiv.org/abs/2308.08543
+
+paper: ./pdf/InsMapper.pdf
+supp: ./pdf/InsMapper_supplementary.pdf
+arxiv: https://arxiv.org/abs/2308.08543
+video: https://youtu.be/MapB7TrNnLY
 code: https://github.com/TonyXuQAQ/InsMapper/tree/main
 ---
 
