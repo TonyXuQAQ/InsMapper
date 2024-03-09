@@ -68,7 +68,7 @@ We thank these high-quality open-sourced projects
 ## Citation
 ```
 @article{xu2023InsMapper,
-  title={InsMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping},
+  title={InsMapper: Exploring Inner-instance Information for Vectorized HD Mapping},
   author={Xu, Zhenhua and Wong, Kenneth KY and Zhao, Hengshuang},
   journal={arXiv preprint arXiv:2308.08543},
   year={2023}
