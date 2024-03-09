@@ -27,8 +27,14 @@ Vectorized high-definition (HD) maps contain detailed information about surround
 
 ---
 
-## Demo Videos
+<div class="columns is-centered has-text-centered">
+    <div class="column is-four-fifths">
+        <h2>Demo Video</h2>
+        <p align="center"><iframe width="800" height="450" src="https://www.youtube.com/embed/MapB7TrNnLY" frameborder="0" allowfullscreen></iframe></p>
+    </div>
+</div>
 
+---
 
 ## Demo Figures
 We visualize live demos of InsMapper under various scenarios, with different whether and time. Some scenes may have complicated road intersection areas. Short demos are visualized with 2Hz, while long demos have 4Hz FPS.
@@ -49,12 +55,17 @@ We visualize live demos of InsMapper under various scenarios, with different whe
 #### Demo 8. Long, 4Hz, night
 ![Alt Text](img/6.gif)
 
+---
 
 ## Code and data
 The code will be released in a later stage. For latest update, please refer to our [github repo](https://github.com/TonyXuQAQ/InsMapper/tree/main). 
 
+---
+
 ## Contact
 For any questions, please send email to zhxuv at hku dot hk or open an issue in the [github repo](https://github.com/TonyXuQAQ/InsMapper/tree/main).
+
+---
 
 ## Acknowledgement
 We thank these high-quality open-sourced projects 
@@ -64,6 +75,8 @@ We thank these high-quality open-sourced projects
 [STSU](https://github.com/ybarancan/STSU),
 [Sat2Graph](https://github.com/songtaohe/Sat2Graph),
 [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
+
+---
 
 ## Citation
 ```
