@@ -86,7 +86,7 @@ We thank these high-quality open-sourced projects
 ```
 @article{xu2023InsMapper,
   title={InsMapper: Exploring Inner-instance Information for Vectorized HD Mapping},
-  author={Xu, Zhenhua and Wong, Kenneth KY and Zhao, Hengshuang},
+  author={Xu, Zhenhua and Wong, Kwan-Yee~K. and Zhao, Hengshuang},
   journal={arXiv preprint arXiv:2308.08543},
   year={2023}
 }
