@@ -1,0 +1,1 @@
+tensorboard --logdir ./work_dirs --port 5050 --bind_all

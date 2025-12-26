@@ -1,0 +1,1 @@
+./tools/dist_train.sh ./projects/configs/eccv/InsMapper_r50_24e.py 8
